@@ -8,4 +8,18 @@ Você ainda corre o risco de que sua mensagem acabe na caixa de SPAM, onde é pr
 
 texto de: https://blog.nitronews.com.br/importancia-template-html-para-o-seu-email-marketing/
 
-__________________________________________________________________
+
+_____________________Como Criar Esses E-mails__________________________
+
+Considerações:
+
+Cada cliente de e-mail tem o comportamento diferete tem uma maneira propria de renderizar o html e css.
+
+Quando criamos uma e-mail com html e css precisamos usar uma metodologia retro, com tabelas e estilos inline.
+
+Não podemos usar fontes externas nos e-mails.
+
+
+
+
+

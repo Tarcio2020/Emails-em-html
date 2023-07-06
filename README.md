@@ -19,6 +19,17 @@ Quando criamos uma e-mail com html e css precisamos usar uma metodologia retro, 
 
 Não podemos usar fontes externas nos e-mails.
 
+Para mandar um e-mail com imagens, elas precisam estar em servidor, nesse caso usamos a Vercel
+
+
+______________Testes no Email HTML_____________
+
+Para fazermos os testes usamos a ferramenta gratuita 
+
+    https://putsmail.com/tests/success
+
+ou nosso próprio e-mail usando o inspercionar e editando o HTML da pagina do e-mail.
+
 
 
 
